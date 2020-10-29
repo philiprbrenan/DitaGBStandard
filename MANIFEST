@@ -1,0 +1,9 @@
+Build.PL
+CONTRIBUTING.md
+englishWords/listOfEnglishWords.pl
+englishWords/listOfEnglishWordsNormalized.txt
+lib/Dita/GB/Standard.pm
+MANIFEST			This list of files
+test.pl
+META.yml
+META.json
