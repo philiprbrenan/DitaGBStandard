@@ -6,7 +6,7 @@
 # podDocumentation
 # gbBinaryStandardFileName produces different results when given the file name versus the file content - it should be the same
 package Dita::GB::Standard;
-our $VERSION = 20190911;
+our $VERSION = 20201030;
 require v5.16;
 use warnings FATAL => qw(all);
 use strict;
